@@ -1,0 +1,11 @@
+{
+  "$schema": "https://api-code-maker.nie.netease.com/main/config/config.json",
+  "mcp": {
+    "renderdoc": {
+      "type": "local",
+      "command": [
+        "renderdoc-mcp"
+      ]
+    }
+  }
+}
